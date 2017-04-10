@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.embark",
+    "\\.embark\\development",
+    "\\.embark\\development\\js",
+    "\\app",
+    "\\app\\contracts"
+  ],
+  "SelectedNode": "\\app\\contracts\\Ballot.sol",
+  "PreviewInSolutionExplorer": false
+}

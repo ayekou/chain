@@ -1,0 +1,61 @@
+body{
+	color: blue;
+	background-image: url("../images/grid.jpg");
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Arvo', serif;
+}
+
+h1{ 
+	color: black; 
+	font-family: 'Arvo'; 
+}
+a{
+	color:red;
+	text-decoration: none; 
+	font-size: 24px; 
+}
+a:hover{
+	text-decoration: underline;
+}
+
+
+#footer{
+	background: black ;
+	color: #aaaaaa ;
+	padding-top: 3em;
+	padding-bottom: 3em;
+
+}
+
+#footer a {
+	color: #aaaaaa;
+}
+
+#footer a:hover {
+	color : #dddddd;
+	background-size: cover ; 
+}
+.social {
+	font-size: 24px ;
+}
+
+#wrapper {
+	background-image: url(../images/background.jpg);
+	height: 550px ; 
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px ; 
+	color: white ; 
+	text-shadow: 2px 2px 5px #6A6D67; 
+}
+#wrapper h1 {
+	font-size: 72px ; 
+}
+#wrapper h2 {
+	font-size: 24px ; 
+	margin-bottom: 1em ; 
+}
+
+.spacer{
+	height: 8em; 
+}
